@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "spiritualgrowth",
     "public": "public",
     "ignore": [
       "firebase.json",
